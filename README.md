@@ -6,11 +6,6 @@ Hello! 👋 I'm Felix Fabri, a professional with a degree in Computer Science, s
 
 - **Name:** Felix Fabri
 - **Education:** Computer Science
-- **Experience:** Development in C#, .NET, ASP.NET, CSS, HTML, JavaScript
-- **Skills:** Git, GitHub, MVC, Razor Pages
-
-
-
 
 
 ## Technical Skills
